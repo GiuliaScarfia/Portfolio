@@ -161,6 +161,12 @@ st.markdown("""
 - Confronto tra regioni, province e città per luoghi culturali (grafici a barra).  
 - Mappa tematica-coropletica della distribuzione geografica.  
 - Distribuzione percentuale per regione (grafico a torta).
+
+**📄 CV Optimizer – Generatore di Curriculum Ottimizzati**  
+[Visualizza app](https://cvoptimizer.streamlit.app/)  
+- Web app interattiva per l’analisi e l’ottimizzazione del curriculum.
+- Integra tecnologie NLP per confrontare CV e annunci di lavoro.
+- Genera un CV ottimizzato e pronto per la candidatura.
 """)
 
 # --- Autorizzazione trattamento dati ---
