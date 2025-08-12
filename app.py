@@ -67,9 +67,10 @@ st.markdown("""
 # --- Esperienza Lavorativa ---
 st.header("💼 Esperienza Lavorativa")
 st.markdown("""
-**03/2025 - Attuale | Social Media Manager, Corte Libertini, Caltagirone**  
-- Comunicazione digitale, content creation in linea con il brand.  
-- Gestione campagne promozionali orientate all’engagement e analisi dati per il monitoraggio delle performance.
+**07/2025 – Attuale | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
+- Front office, accoglienza utenti e supporto all’orientamento.
+- Gestione documentale e utilizzo del gestionale Smartnet.
+- Supporto ai processi di inserimento lavorativo e formazione.
 
 **02/2024 - 11/2024 | Collaboratrice CLA - Centro Linguistico di Ateneo, Alma Mater Studiorum - Università di Bologna**  
 - Gestione tecnica del laboratorio linguistico e supporto alla manutenzione informatica.  
