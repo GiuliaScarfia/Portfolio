@@ -67,12 +67,19 @@ st.markdown("""
 # --- Esperienza Lavorativa ---
 st.header("💼 Esperienza Lavorativa")
 st.markdown("""
-**12/2025 – Attuale | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina (Italia)**
+
+**03/2025 – Attuale | Social Media Manager, Corte Libertini, Caltagirone**
+- Comunicazione digitale.
+- Ideazione e realizzazione contenuti che rispecchiano la missione e l'identità del brand.
+- Coordinazione campagne pubblicitarie e iniziative promozionali che mirano a incrementare l'engagement.
+- Analisi dei dati.
+
+**12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina**
 - Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).
 - Preparazione di materiali didattici e attività comunicative orientate allo sviluppo delle competenze linguistiche e interculturali.
 - Valutazione delle competenze linguistiche attraverso test di ingresso, verifiche in itinere e prove finali.
 
-**07/2025 – Attuale | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
+**07/2025 – 01/2026 | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
 - Front office, accoglienza utenti e supporto all’orientamento.
 - Gestione documentale e utilizzo del gestionale Smartnet.
 - Supporto ai processi di inserimento lavorativo e formazione.
