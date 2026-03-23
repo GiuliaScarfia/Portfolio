@@ -116,8 +116,6 @@ st.markdown("""
 - Jupyter Notebook  
 - Streamlit  
 - Machine/Deep Learning  
-- Scikit-learn  
-- TensorFlow  
 - Data Science  
 - Conoscenza di base di R
 """)
