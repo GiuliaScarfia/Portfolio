@@ -20,7 +20,7 @@ st.markdown("""
 
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
-image = Image.open("giulia_scarfia.jpg")
+image = Image.open("ciao.jpg")
 st.image(image, width=300)
 st.markdown('</div>', unsafe_allow_html=True)
 
