@@ -68,11 +68,10 @@ st.markdown("""
 st.header("💼 Esperienza Lavorativa")
 st.markdown("""
 
-**03/2025 – Attuale | Social Media Manager, Corte Libertini, Caltagirone**
-- Comunicazione digitale.
-- Ideazione e realizzazione contenuti che rispecchiano la missione e l'identità del brand.
-- Coordinazione campagne pubblicitarie e iniziative promozionali che mirano a incrementare l'engagement.
-- Analisi dei dati.
+**03/2026 – Presente | Case Manager, Globalform, Catania**
+- Presa in carico degli utenti e definizione di percorsi personalizzati di orientamento e inserimento lavorativo.
+- Analisi dei bisogni formativi e professionali e realizzazione di bilanci di competenze.
+- Monitoraggio dei percorsi individuali e collaborazione con enti e aziende per favorire l’occupabilità.
 
 **12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina**
 - Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).
@@ -81,8 +80,14 @@ st.markdown("""
 
 **07/2025 – 01/2026 | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
 - Front office, accoglienza utenti e supporto all’orientamento.
-- Gestione documentale e utilizzo del gestionale Smartnet.
+- Gestione documentale e utilizzo dei gestionali Whitenet e Smartnet.
 - Supporto ai processi di inserimento lavorativo e formazione.
+
+**03/2025 – Attuale | Social Media Manager, Corte Libertini, Caltagirone**
+- Comunicazione digitale.
+- Ideazione e realizzazione contenuti che rispecchiano la missione e l'identità del brand.
+- Coordinazione campagne pubblicitarie e iniziative promozionali che mirano a incrementare l'engagement.
+- Analisi dei dati.
 
 **02/2024 - 11/2024 | Collaboratrice CLA - Centro Linguistico di Ateneo, Alma Mater Studiorum - Università di Bologna**  
 - Gestione tecnica del laboratorio linguistico e supporto alla manutenzione informatica.  
