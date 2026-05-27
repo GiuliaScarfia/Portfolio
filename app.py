@@ -175,7 +175,7 @@ st.markdown("""
 
 # --- Patente di Guida ---
 st.header("🚗 Patente di guida")
-st.markdown("Patente di categoria **B**")
+st.markdown("- Patente di categoria **B**")
 
 # --- Hobby e Interessi ---
 st.header("🎨 Hobby e Interessi")
