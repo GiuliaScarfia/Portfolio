@@ -125,10 +125,10 @@ st.markdown("""
 st.header("📚 Altro")
 st.markdown("""
 **Seminario di poesia contemporanea – Officina di Poesia**  
-*Critica e poesia:* nuove frontiere dell’analisi del testo poetico, tenuto dal professor Francesco Carbognin.
+- Critica e poesia:* nuove frontiere dell’analisi del testo poetico, tenuto dal professor Francesco Carbognin.
 
 **Il sogno e l'inconscio nella storia della Filosofia e della Psicodinamica**  
-*La letteratura del sogno:* scene oniriche nei poemi omerici e il contributo psicodinamico (Bion, Bergson, Janet, Freud, Nietzsche e Jung).
+- La letteratura del sogno:* scene oniriche nei poemi omerici e il contributo psicodinamico (Bion, Bergson, Janet, Freud, Nietzsche e Jung).
 
 **Corso di Sceneggiatura e Scrittura per il cinema**  
 - Laboratorio di scrittura creativa con approfondimento delle tecniche di sceneggiatura cinematografica e storytelling, tenuto da Claudio Fava.
