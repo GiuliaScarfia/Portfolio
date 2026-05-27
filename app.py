@@ -21,9 +21,6 @@ st.markdown("""
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
 image = Image.open("CV.jpeg")
-=======
-image = Image.open("ciao.jpg")
->>>>>>> d2118b40b866d446ce9541ebc7662eccf46b03df
 st.image(image, width=300)
 st.markdown('</div>', unsafe_allow_html=True)
 
