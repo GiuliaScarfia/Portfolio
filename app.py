@@ -20,7 +20,6 @@ st.markdown("""
 
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
-<<<<<<< HEAD
 image = Image.open("CV.jpeg")
 =======
 image = Image.open("ciao.jpg")
@@ -74,19 +73,8 @@ st.markdown("""
 
 **03/2026 – Presente | Case Manager, Globalform, Catania**
 - Presa in carico degli utenti e definizione di percorsi personalizzati di orientamento e inserimento lavorativo.
-<<<<<<< HEAD
 - Analisi dei bisogni professionali e realizzazione di bilanci di competenze.
 - Progettazione e monitoraggio di interventi formativi e collaborazione con enti e aziende per favorire l’occupabilità.
-
-**12/2025 – Attuale | Docente di Italiano L2 per stranieri, Formasec S.r.l., Piazza Armerina (Italia)**  
-- Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).  
-- Preparazione di materiali didattici e attività comunicative orientate allo sviluppo delle competenze linguistiche e interculturali.  
-- Valutazione delle competenze linguistiche attraverso test di ingresso, verifiche in itinere e prove finali.  
-
-**07/2025 – Attuale | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
-=======
-- Analisi dei bisogni formativi e professionali e realizzazione di bilanci di competenze.
-- Monitoraggio dei percorsi individuali e collaborazione con enti e aziende per favorire l’occupabilità.
 
 **12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina**
 - Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).
@@ -94,7 +82,6 @@ st.markdown("""
 - Valutazione delle competenze linguistiche attraverso test di ingresso, verifiche in itinere e prove finali.
 
 **07/2025 – 01/2026 | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
->>>>>>> d2118b40b866d446ce9541ebc7662eccf46b03df
 - Front office, accoglienza utenti e supporto all’orientamento.
 - Gestione documentale e utilizzo dei gestionali Whitenet e Smartnet.
 - Supporto ai processi di inserimento lavorativo e formazione.
