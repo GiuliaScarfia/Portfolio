@@ -121,6 +121,19 @@ st.markdown("""
 - In collaborazione con la prof.ssa Luisa Lugli, approfondimento del contributo dell'embodied cognition negli interventi diagnostici e terapeutici nell’ambito del trattamento dei disturbi dello spettro autistico.
 """)
 
+# --- Altro / Seminari e Corsi ---
+st.header("📚 Altro")
+st.markdown("""
+**Seminario di poesia contemporanea – Officina di Poesia**  
+*Critica e poesia:* nuove frontiere dell’analisi del testo poetico, tenuto dal professor Francesco Carbognin.
+
+**Il sogno e l'inconscio nella storia della Filosofia e della Psicodinamica**  
+*La letteratura del sogno:* scene oniriche nei poemi omerici e il contributo psicodinamico (Bion, Bergson, Janet, Freud, Nietzsche e Jung).
+
+**Corso di Sceneggiatura e Scrittura per il cinema**  
+- Laboratorio di scrittura creativa con approfondimento delle tecniche di sceneggiatura cinematografica e storytelling, tenuto da Claudio Fava.
+""")
+
 # --- Competenze Tecniche ---
 st.header("🛠️ Competenze Tecniche")
 st.markdown("""
