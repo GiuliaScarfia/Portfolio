@@ -20,7 +20,7 @@ st.markdown("""
 
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
-image = Image.open("giulia_scarfia.jpg")
+image = Image.open("CV.jpeg")
 st.image(image, width=300)
 st.markdown('</div>', unsafe_allow_html=True)
 
@@ -67,6 +67,17 @@ st.markdown("""
 # --- Esperienza Lavorativa ---
 st.header("💼 Esperienza Lavorativa")
 st.markdown("""
+
+**03/2026 – Presente | Case Manager, Globalform, Catania**
+- Presa in carico degli utenti e definizione di percorsi personalizzati di orientamento e inserimento lavorativo.
+- Analisi dei bisogni professionali e realizzazione di bilanci di competenze.
+- Progettazione e monitoraggio di interventi formativi e collaborazione con enti e aziende per favorire l’occupabilità.
+
+**12/2025 – Attuale | Docente di Italiano L2 per stranieri, Formasec S.r.l., Piazza Armerina (Italia)**  
+- Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).  
+- Preparazione di materiali didattici e attività comunicative orientate allo sviluppo delle competenze linguistiche e interculturali.  
+- Valutazione delle competenze linguistiche attraverso test di ingresso, verifiche in itinere e prove finali.  
+
 **07/2025 – Attuale | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
 - Front office, accoglienza utenti e supporto all’orientamento.
 - Gestione documentale e utilizzo del gestionale Smartnet.
