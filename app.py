@@ -21,9 +21,6 @@ st.markdown("""
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
 image = Image.open("CV.jpeg")
-=======
-image = Image.open("ciao.jpg")
->>>>>>> d2118b40b866d446ce9541ebc7662eccf46b03df
 st.image(image, width=300)
 st.markdown('</div>', unsafe_allow_html=True)
 
@@ -86,12 +83,6 @@ st.markdown("""
 - Gestione documentale e utilizzo dei gestionali Whitenet e Smartnet.
 - Supporto ai processi di inserimento lavorativo e formazione.
 
-**03/2025 – Attuale | Social Media Manager, Corte Libertini, Caltagirone**
-- Comunicazione digitale.
-- Ideazione e realizzazione contenuti che rispecchiano la missione e l'identità del brand.
-- Coordinazione campagne pubblicitarie e iniziative promozionali che mirano a incrementare l'engagement.
-- Analisi dei dati.
-
 **02/2024 - 11/2024 | Collaboratrice CLA - Centro Linguistico di Ateneo, Alma Mater Studiorum - Università di Bologna**  
 - Gestione tecnica del laboratorio linguistico e supporto alla manutenzione informatica.  
 - Coordinazione e assistenza durante l’erogazione di test di idoneità linguistica.  
@@ -106,21 +97,44 @@ st.markdown("""
 # --- Tirocini e Ricerca ---
 st.header("🔬 Tirocini e Ricerca")
 st.markdown("""
+**01/2025 – 04/2025 | Vincitrice della borsa di studio "Coding Women Italy" – Bootcamp in AI Engineering e Sviluppo Software**  
+*Edgemony in collaborazione con AITHO e VEDRAI*  
+- Sviluppo di competenze avanzate in Python per l’analisi dei dati, la costruzione di modelli e l’utilizzo di applicazioni intelligenti.  
+- Utilizzo di tecniche di Data Science e Machine Learning per estrarre conoscenza dai dati e addestrare algoritmi predittivi.  
+- Applicazione del Deep Learning e NLP.
+
 **02/2024 – 10/2024 | Tirocinio presso il Gruppo di ricerca Cognitive Dynamics 4E – Università di Bologna**  
 - Approfondimento dei principali paradigmi sperimentali delle Scienze Cognitive e della Psicolinguistica.  
 - Partecipazione attiva a progetti di ricerca sperimentale, dall’ideazione alla raccolta e analisi dei dati (VR, eye tracking, esperimenti comportamentali).  
 - Collaborazione a eventi di divulgazione scientifica e incontri periodici del gruppo di ricerca (lab meeting).
 """)
 
+# --- Conferenze e Seminari ---
+st.header("🎤 Conferenze e Seminari")
+st.markdown("""
+**31/01/2024 | Alma Mater Studiorum – Università di Bologna**  
+**Conduzione di seminario – Lessico specialistico della lingua italiana**  
+- In collaborazione con la prof.ssa Chiara Coluccia, approfondimento del linguaggio tecnico-professionale e dei lessici settoriali.
+
+**31/12/2023 | Alma Mater Studiorum – Università di Bologna**  
+**Conduzione di seminario – L'embodied cognition nello spettro autistico**  
+- In collaborazione con la prof.ssa Luisa Lugli, approfondimento del contributo dell'embodied cognition negli interventi diagnostici e terapeutici nell’ambito del trattamento dei disturbi dello spettro autistico.
+""")
+
 # --- Competenze Tecniche ---
 st.header("🛠️ Competenze Tecniche")
 st.markdown("""
+- Pacchetto Office
+- Conoscenza di base di R
 - Python  
 - Jupyter Notebook  
 - Streamlit  
-- Machine/Deep Learning  
 - Data Science  
-- Conoscenza di base di R
+- Machine/Deep Learning  
+- NLP
+- Comunicazione digitale
+- Creazione contenuti
+- Strategie promozionali
 """)
 
 # --- Competenze Trasversali ---
