@@ -26,7 +26,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Title ---
 st.title("Giulia Scarfia")
-st.subheader("AI & LANGUAGE SCIENCES SPECIALIST")
+st.subheader("AI & COGNITIVE LANGUAGE SPECIALIST")
 st.markdown("95041 Caltagirone, Italia | (+39) 393-5423818 | giuliascarfia@hotmail.it")
 st.markdown("[GitHub](https://github.com/GiuliaScarfia) | [LinkedIn](https://www.linkedin.com/in/giulia-scarfia-050720219)")
 st.divider()
@@ -59,6 +59,7 @@ st.markdown("""
 - Tesi multidisciplinare in Etica della Comunicazione sul rapporto tra pensiero, arte e scienza, ispirata al paradigma della complessità.  
 - Approccio neuroestetico per esplorare le basi neurobiologiche dell’esperienza estetica.  
 - Voto finale: 103/110
+[Link alla tesi](https://www.researchgate.net/publication/405372810_Tra_Chaos_e_Kosmos_il_gesto_dell'Arte)
 
 **2013 – 2018 | Diploma di Maturità Scientifica** – Istituto Superiore “Majorana Arcoleo” – Caltagirone  
 - Voto finale: 97/100
@@ -72,6 +73,12 @@ st.markdown("""
 - Presa in carico degli utenti e definizione di percorsi personalizzati di orientamento e inserimento lavorativo.
 - Analisi dei bisogni professionali e realizzazione di bilanci di competenze.
 - Progettazione e monitoraggio di interventi formativi e collaborazione con enti e aziende per favorire l’occupabilità.
+
+**18/05/2026 – 08/06/2026 | Co-docente di Competenze Digitali e Informatiche – PAR GOL Sicilia, Globalform S.r.l., Catania**
+- Formazione su produttività digitale, gestione dei file in cloud e collaborazione in tempo reale tramite strumenti condivisi.
+- Sviluppo di competenze di cittadinanza e sicurezza digitale secondo i framework europei DigComp 2.2 e 3.0, con focus su privacy, sicurezza online e gestione critica delle informazioni.
+- Supporto alla ricerca attiva del lavoro attraverso creazione di CV Europass, ottimizzazione del profilo LinkedIn e preparazione ai colloqui.
+- Introduzione all’utilizzo dell’Intelligenza Artificiale generativa mediante tecniche di prompt writing e sviluppo delle soft skill.
 
 **12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina**
 - Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).
@@ -125,13 +132,14 @@ st.markdown("""
 st.header("📚 Altro")
 st.markdown("""
 **Seminario di poesia contemporanea – Officina di Poesia**  
-- Critica e poesia:* nuove frontiere dell’analisi del testo poetico, tenuto dal professor Francesco Carbognin.
+- 31/01/2024 – 31/05/2024 | Critica e poesia:* nuove frontiere dell’analisi del testo poetico, tenuto dal professor Francesco Carbognin presso l'Alma Mater
+Studiorum - Università di Bologna.
 
 **Il sogno e l'inconscio nella storia della Filosofia e della Psicodinamica**  
-- La letteratura del sogno:* scene oniriche nei poemi omerici e il contributo psicodinamico (Bion, Bergson, Janet, Freud, Nietzsche e Jung).
+- 31/01/2021 – 31/05/2021 | La letteratura del sogno:* scene oniriche nei poemi omerici e il contributo psicodinamico (Bion, Bergson, Janet, Freud, Nietzsche e Jung), tenuto dal dottor Francesco Farinella presso UNICT - Universià di Catania.
 
 **Corso di Sceneggiatura e Scrittura per il cinema**  
-- Laboratorio di scrittura creativa con approfondimento delle tecniche di sceneggiatura cinematografica e storytelling, tenuto da Claudio Fava.
+- 01/02/2021 – 31/05/2021 | Laboratorio di scrittura creativa con approfondimento delle tecniche di sceneggiatura cinematografica e storytelling, tenuto dal giornalista e scrittore Claudio Fava.
 """)
 
 # --- Competenze Tecniche ---
@@ -181,15 +189,12 @@ st.markdown("- Patente di categoria **B**")
 st.header("🎨 Hobby e Interessi")
 st.markdown("""
 **Cultura**:  
-- Scrittura creativa  
-- Competenze storico-artistiche  
-- Inclinazione filosofica e poetica  
-- Passione fotografica e cinematografica  
+- Predisposizione artisticca e scrittura creativa
+- Inclinazione filosofica e poetica, passione fotografica e cinematografica
 - Interessi psicologici, neurolinguistici e neuroestetici
 
 **Sport**:  
-- Allenamento in palestra  
-- Fitness e nuoto in piscina  
+- Fitness e nuoto
 - Surf e Yoga
 """)
 
