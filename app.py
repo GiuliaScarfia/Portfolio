@@ -80,10 +80,10 @@ st.markdown("""
 - Supporto alla ricerca attiva del lavoro attraverso creazione di CV Europass, ottimizzazione del profilo LinkedIn e preparazione ai colloqui.
 - Introduzione all’utilizzo dell’Intelligenza Artificiale generativa mediante tecniche di prompt writing e sviluppo delle soft skill.
 
-**12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l., Piazza Armerina**
+**12/2025 – 01/2026 | Docente di Italiano L2 per Stranieri, Formasec S.r.l. & Forma.Temp, Piazza Armerina**
 - Progettazione e svolgimento di corsi di lingua italiana L2 per studenti stranieri di diversi livelli (A1–C1).
-- Preparazione di materiali didattici e attività comunicative orientate allo sviluppo delle competenze linguistiche e interculturali.
-- Valutazione delle competenze linguistiche attraverso test di ingresso, verifiche in itinere e prove finali.
+- Preparazione di materiali didattici e attività mirate al favorire l'approccio interculturale, lo sviluppo di soft skill (role play, lavori di gruppo, simulazioni) e l'alfabetizzazione informatica (dimensione laboratoriale, esperienziale e innovativa).
+- Valutazione delle competenze attraverso verifiche in itinere e prove finali.
 
 **07/2025 – 01/2026 | Addetta amministrativa, Asten – Agenzia per il Lavoro, Caltagirone**
 - Front office, accoglienza utenti e supporto all’orientamento.
@@ -114,6 +114,18 @@ st.markdown("""
 - Approfondimento dei principali paradigmi sperimentali delle Scienze Cognitive e della Psicolinguistica.  
 - Partecipazione attiva a progetti di ricerca sperimentale, dall’ideazione alla raccolta e analisi dei dati (VR, eye tracking, esperimenti comportamentali).  
 - Collaborazione a eventi di divulgazione scientifica e incontri periodici del gruppo di ricerca (lab meeting).
+""")
+
+# --- Certificazioni ---
+st.header("📜 Certificazioni")
+
+st.markdown("""
+
+**Regione Siciliana | Abilitazione professionale – Formatore accreditato (S.ARF)**
+- Area Funzionale 3 – Personale insegnante di materie teoriche.
+- Profilo 1 – Formatore.
+- Attività di indirizzo: interventi formativi, didattica e sviluppo di competenze digitali, linguistiche e trasversali.
+
 """)
 
 # --- Conferenze e Seminari ---
