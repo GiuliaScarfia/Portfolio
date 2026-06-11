@@ -133,13 +133,16 @@ st.markdown("""
 - Sviluppo di competenze legate a pensiero critico, pensiero computazionale e learning design evidence-based.
 🔗 **Open Badge verificabile:**  
 https://bestr.it/award/show/f43wn2AuSq2gmqt0EtVztA
+""")
+
+col1, col2 = st.columns([3, 1])
+
 with col2:
     st.image(
         "assets/open_badge_edvance.png",
         caption="Open Badge Edvance",
         use_container_width=True
     )
-""")
 
 # --- Conferenze e Seminari ---
 st.header("🎤 Conferenze e Seminari")
