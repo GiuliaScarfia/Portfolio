@@ -127,7 +127,7 @@ st.markdown("""
 - Attività di indirizzo: interventi formativi, didattica e sviluppo di competenze digitali, linguistiche e trasversali.
 
 **Edvance – Digital Education Hub (Next Generation EU) & University of Turin | Progettare attività didattiche digitali transdisciplinari**
-- Percorso su progettazione didattica innovativa e neuroscienze cognitive dell’apprendimento.
+- Percorso EQF Level 5 su progettazione didattica innovativa e neuroscienze cognitive dell’apprendimento.
 - Integrazione di artefatti digitali, storici e manipolativi nelle Unità di Apprendimento (UDA).
 - Utilizzo di risorse digitali open access e strumenti di intelligenza artificiale per la progettazione formativa.
 - Sviluppo di competenze legate a pensiero critico, pensiero computazionale e learning design evidence-based.
