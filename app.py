@@ -26,17 +26,18 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Title ---
 st.title("Giulia Scarfia")
-st.subheader("AI & COGNITIVE LANGUAGE SPECIALIST")
-st.markdown("95041 Caltagirone, Italia | (+39) 393-5423818 | giuliascarfia@hotmail.it")
+st.subheader("Training & Learning Project Designer | Cognitive Linguist | Digital Education, AI & Innovation Specialist")
+st.markdown("Catania, Italia | (+39) 393-5423818 | giuliascarfia@hotmail.it")
 st.markdown("[GitHub](https://github.com/GiuliaScarfia) | [LinkedIn](https://www.linkedin.com/in/giulia-scarfia-050720219)")
 st.divider()
 
 # --- Su di me ---
 st.header("🧠 Su di me")
 st.markdown("""
-Esperta in Scienze Linguistiche ed AI con un solido background accademico e una visione interdisciplinare che intreccia psicolinguistica, linguistica computazionale e scienze cognitive. 
-Le mie esperienze di ricerca sono caratterizzate da approcci sperimentali, neuropsicologici e statistico-computazionali. 
-Curiosa per natura, affronto ogni sfida con spirito critico e creativo, coltivando un profondo amore per l’arte, l’innovazione e il potere trasformativo della conoscenza.
+Esperta in Scienze Linguistiche e Intelligenza Artificiale, con solido background accademico e formazione interdisciplinare in psicolinguistica, linguistica computazionale e scienze cognitive.
+Le mie competenze di ricerca si basano su approcci sperimentali, neuropsicologici e statistico-computazionali, con particolare attenzione allo studio del linguaggio e dei processi di apprendimento in relazione alle tecnologie digitali.
+Attualmente opero nell’ambito della progettazione formativa e dell’innovazione didattica, occupandomi di sviluppo di percorsi educativi, competenze digitali e di opportunità finanziate.
+Unisco spirito critico e pensiero creativo, con un forte interesse per l’innovazione, l'arte e il potere trasformativo della conoscenza.
 """)
 
 # --- Lingue ---
