@@ -20,13 +20,13 @@ st.markdown("""
 
 # --- Profile Image ---
 st.markdown('<div class="centered-image">', unsafe_allow_html=True)
-image = Image.open("CV.jpeg")
+image = Image.open("CV Curly.png")
 st.image(image, width=300)
 st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Title ---
 st.title("Giulia Scarfia")
-st.subheader("Training & Learning Project Designer | Cognitive Linguist | Digital Education, AI & Innovation Specialist")
+st.subheader("Cognitive Linguist | Learning Designer | AI & Educational Innovation")
 st.markdown("Catania, Italia | (+39) 393-5423818 | giuliascarfia@hotmail.it")
 st.markdown("[GitHub](https://github.com/GiuliaScarfia) | [LinkedIn](https://www.linkedin.com/in/giulia-scarfia-050720219)")
 st.divider()
