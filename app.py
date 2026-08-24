@@ -75,6 +75,11 @@ st.markdown("""
 - Analisi dei bisogni professionali e realizzazione di bilanci di competenze.
 - Progettazione e monitoraggio di interventi formativi e collaborazione con enti e aziende per favorire l’occupabilità.
 
+**24/08/2026 – Presente | Docente YES I START UP Sicilia – Ente Nazionale per il Microcredito**
+- Formazione sulla progettazione d’impresa, con trasformazione dell’idea imprenditoriale in un progetto strutturato attraverso definizione degli obiettivi, proposta di valore, risorse necessarie e piano operativo.
+- Sviluppo di competenze di strategia e posizionamento, mediante analisi del contesto competitivo, individuazione del target e delle opportunità di mercato, definizione del posizionamento e delle principali leve strategiche per la crescita.
+- Supporto alla pianificazione economico-finanziaria, attraverso costruzione di scenari previsionali, analisi di costi, ricavi e fabbisogni finanziari e valutazione della sostenibilità e dei principali indicatori economici.
+
 **18/05/2026 – 08/06/2026 | Co-docente di Competenze Digitali e Informatiche – PAR GOL Sicilia, Globalform S.r.l., Catania**
 - Formazione su produttività digitale, gestione dei file in cloud e collaborazione in tempo reale tramite strumenti condivisi.
 - Sviluppo di competenze di cittadinanza e sicurezza digitale secondo i framework europei DigComp 2.2 e 3.0, con focus su privacy, sicurezza online e gestione critica delle informazioni.
