@@ -115,7 +115,15 @@ st.markdown("""
 - Sviluppo di competenze avanzate in Python per l’analisi dei dati, la costruzione di modelli e l’utilizzo di applicazioni intelligenti.  
 - Utilizzo di tecniche di Data Science e Machine Learning per estrarre conoscenza dai dati e addestrare algoritmi predittivi.  
 - Applicazione del Deep Learning e NLP.
+""")
 
+st.image(
+    "ai.jpg",
+    caption="Certificazione Ai Engineer",
+    width=500,
+)
+
+st.markdown("""
 **02/2024 – 10/2024 | Tirocinio presso il Gruppo di ricerca Cognitive Dynamics 4E – Università di Bologna**  
 - Approfondimento dei principali paradigmi sperimentali delle Scienze Cognitive e della Psicolinguistica.  
 - Partecipazione attiva a progetti di ricerca sperimentale, dall’ideazione alla raccolta e analisi dei dati (VR, eye tracking, esperimenti comportamentali).  
@@ -149,6 +157,20 @@ with col1:
         "open_badge_edvance.png",
         caption="Open Badge Edvance",
     )
+
+st.markdown("""
+**Coursera | Kennesaw State University of Georgia, 13/01/2021 | Cybersecurity and Its Ten Domains**
+• Governance e sicurezza informatica: conoscenze in gestione del rischio, conformità, continuità aziendale, disaster recovery, crittografia e controllo degli accessi.
+• Sicurezza IT: competenze di base in sicurezza dello sviluppo software, reti, architetture, operazioni di sicurezza e protezione fisica e ambientale.
+
+🔗 https://www.coursera.org/learn/cyber-security-domain
+""")
+
+st.image(
+    "cybersecurity.jpg",
+    caption="Certificazione Cybersecurity",
+    width=500,
+)
 
 # --- Conferenze e Seminari ---
 st.header("🎤 Conferenze e Seminari")
