@@ -26,7 +26,7 @@ st.markdown('</div>', unsafe_allow_html=True)
 
 # --- Title ---
 st.title("Giulia Scarfia")
-st.subheader("Cognitive Linguist | Learning Designer | AI & Educational Innovation")
+st.subheader("Head of Catania Office | Project Manager | Instructional Designer & Trainer | Cognitive Linguist | Career Guidance Specialist | AI & Digital Innovation")
 st.markdown("Catania, Italia | (+39) 393-5423818 | giuliascarfia@hotmail.it")
 st.markdown("[GitHub](https://github.com/GiuliaScarfia) | [LinkedIn](https://www.linkedin.com/in/giulia-scarfia-050720219)")
 st.divider()
@@ -34,10 +34,12 @@ st.divider()
 # --- Su di me ---
 st.header("🧠 Su di me")
 st.markdown("""
-Esperta in Scienze Linguistiche e Intelligenza Artificiale, con solido background accademico e formazione interdisciplinare in psicolinguistica, linguistica computazionale e scienze cognitive.
-Le mie competenze di ricerca si basano su approcci sperimentali, neuropsicologici e statistico-computazionali, con particolare attenzione allo studio del linguaggio e dei processi di apprendimento in relazione alle tecnologie digitali.
-Attualmente opero nell’ambito della progettazione formativa e dell’innovazione didattica, occupandomi di sviluppo di percorsi educativi, competenze digitali e di opportunità finanziate.
-Unisco spirito critico e pensiero creativo, con un forte interesse per l’innovazione, l'arte e il potere trasformativo della conoscenza.
+In qualità di Responsabile della sede di Catania di Network GTC e operatrice APL nell'ambito delle Politiche Attive del Lavoro, opero tra coordinamento organizzativo, progettazione e sviluppo di interventi formativi e progettuali, dedicandomi alla ricerca e alla valorizzazione delle opportunità di finanziamento, nonché alla promozione di percorsi di crescita professionale e sviluppo delle competenze.
+Esperta in Scienze Linguistiche e Intelligenza Artificiale, con solido background accademico e formazione interdisciplinare in psicolinguistica, linguistica computazionale e scienze cognitive. Le mie competenze di ricerca si basano su approcci sperimentali, neuropsicologici e statistico-computazionali, con particolare attenzione allo studio del linguaggio e dei processi di apprendimento in relazione alle tecnologie digitali.
+Sul piano professionale, il mio percorso si sviluppa nell'ambito della formazione e delle politiche attive del lavoro, con particolare riferimento alla ricerca e gestione di bandi, alla progettazione e allo sviluppo di interventi finanziati. In questo contesto, ho maturato esperienza nell'elaborazione di proposte progettuali ammesse a finanziamento e nella loro successiva realizzazione.
+Alla dimensione progettuale affianco quella didattica, attraverso esperienze di docenza in ambiti differenti, che spaziano dall'insegnamento dell'Italiano L2 allo sviluppo delle competenze digitali e alla promozione dell'autoimprenditorialità. Tra le esperienze più significative rientrano la collaborazione a percorsi formativi nell'ambito del PAR GOL Sicilia e il progetto YES I START UP, promosso dall'Ente Nazionale per il Microcredito (ENM).
+Nell'ambito dei Servizi per il Lavoro, svolgo inoltre attività di orientamento professionale, accompagnando le persone nei processi di riconoscimento e valorizzazione delle proprie competenze e nella definizione di prospettive formative e occupazionali, con particolare attenzione alle dinamiche di inserimento e reinserimento nel mercato del lavoro.
+Unisco spirito critico e pensiero creativo, con un forte interesse per l’innovazione, l’arte e il potenziale trasformativo della conoscenza.
 """)
 
 # --- Lingue ---
@@ -70,10 +72,11 @@ st.markdown("""
 st.header("💼 Esperienza Lavorativa")
 st.markdown("""
 
-**03/2026 – Presente | Case Manager, Globalform, Catania**
-- Presa in carico degli utenti e definizione di percorsi personalizzati di orientamento e inserimento lavorativo.
-- Analisi dei bisogni professionali e realizzazione di bilanci di competenze.
-- Progettazione e monitoraggio di interventi formativi e collaborazione con enti e aziende per favorire l’occupabilità.
+**03/2026 – Presente | Office & Project Manager, Globalform, Catania**
+- Head of Catania Office: sviluppo delle attività territoriali e gestione delle relazioni con imprese, enti e partner; ricerca, analisi e gestione di opportunità di finanza agevolata, bandi e avvisi regionali; progettazione, sviluppo e coordinamento di progetti formativi e interventi finanziati, dalla candidatura alla realizzazione.
+- Instructional Design & Training: analisi dei fabbisogni formativi e progettazione di percorsi di apprendimento; sviluppo di contenuti, metodologie e attività didattiche; attività di docenza in diversi ambiti.
+- Career Guidance & Active Labour Market Policies: attività di orientamento professionale come operatrice APL; accoglienza, analisi delle competenze e supporto alla definizione di percorsi personalizzati di inserimento e reinserimento lavorativo; accompagnamento degli utenti nell'individuazione di opportunità formative e professionali.
+- AI & Digital Innovation: integrazione di strumenti e tecnologie digitali nei processi formativi e organizzativi; interesse e applicazione dell'intelligenza artificiale all'innovazione didattica, alla progettazione formativa e allo sviluppo delle competenze digitali.
 
 **24/08/2026 – Presente | Docente YES I START UP Sicilia – Ente Nazionale per il Microcredito**
 - Formazione sulla progettazione d’impresa, con trasformazione dell’idea imprenditoriale in un progetto strutturato attraverso definizione degli obiettivi, proposta di valore, risorse necessarie e piano operativo.
